@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Project-Name
 Trading  Between Sellers And Buyers
 
@@ -28,3 +29,6 @@ Checkout feature
     ```
 
 
+=======
+# trading-between-buyers-and-sellers
+>>>>>>> d376124161952f062591b0fd103b5a45bb87b35b
